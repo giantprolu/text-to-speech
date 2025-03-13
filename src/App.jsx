@@ -4,8 +4,7 @@ import Home from './pages/Home';
 import Layout from './components/Layout';
 import History from './pages/History';
 import About from './pages/About';
-import Convert from './pages/convert';
-
+import Convert from './pages/Convert';
 
 function App() {
   return (
