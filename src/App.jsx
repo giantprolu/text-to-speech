@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import Layout from './components/layout';
+import Layout from './components/Layout';
 import History from './pages/History';
-import About from './pages/about';
+import About from './pages/About';
 import Convert from './pages/convert';
 import Login from './components/auth/login';
 import Register from './components/auth/register';
