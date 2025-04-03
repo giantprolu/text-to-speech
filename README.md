@@ -42,7 +42,7 @@ Text-to-Speech Web App est une application permettant de convertir du texte en a
 ## ⚙️ Installation et exécution
 ### 1️⃣ Prérequis
 - Node.js installé (`>= 16` recommandé)
-- Une clé API valide pour l’API de synthèse vocale
+- Une clé API valide pour l’API de synthèse vocale ^^
 
 ### 2️⃣ Cloner le projet
 ```sh
